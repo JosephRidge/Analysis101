@@ -19,3 +19,8 @@
 ![alt text](image-12.png)
 
 ![alt text](image-13.png)
+
+
+
+#### Note: 
+Each of the data set used in the sessoins have been cited to the sources. 
