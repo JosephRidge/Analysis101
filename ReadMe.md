@@ -23,4 +23,7 @@
 
 
 #### Note: 
-Each of the data set used in the sessoins have been cited to the sources. 
+- Each of the data set used in the sessoins have been cited to the sources. 
+
+- Our core Methodology: Crisp-DM
+![alt text](image-14.png)
