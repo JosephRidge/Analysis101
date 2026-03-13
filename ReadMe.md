@@ -21,6 +21,17 @@
 ![alt text](image-13.png)
 
 
+## **Binomial Distribution:**
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+<hr>
+<hr>
 
 #### Note: 
 - Each of the data set used in the sessoins have been cited to the sources. 
